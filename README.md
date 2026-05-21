@@ -1,4 +1,4 @@
 # GE-IT Skills portfolio
-## __Cristdan Duro__
+## ***Cristdan Duro***
 ## *future CPA Lawyer*
-### > fueled by passion, driven by purpose
+> fueled by passion, driven by purpose
