@@ -1,5 +1,5 @@
 # GE-IT Skills portfolio
-# 🌟 Cristdan Taban Duro — Professional Portfolio
+# 🌟 Cristdan T. Duro — Professional Portfolio
 
 ### *Fueled by passion, driven by purpose.*
 
@@ -19,7 +19,7 @@ In design, I believe that great work is not just about aesthetics—it is about 
 
 ### Professional Banner
 
-![Profile Banner](./visuals/DURO_Profile-Banner.png)
+![Profile Banner](./visuals/DURO_Profile%20Banner.png)
 
 **Reflection:**
 This design uses small arch elements as borders to create a soft yet structured composition. The palette of buttery white, clear pink, and dark gray brown balances warmth and professionalism.
