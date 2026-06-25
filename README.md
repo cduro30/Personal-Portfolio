@@ -7,7 +7,7 @@
 
 ## 👤 About Me
 
-Hello! I’m **Cristdan Taban Duro**, a passionate and purpose-driven student from Atene de Davao University, an incoming second year BSA student, aspiring to become a CPA Lawyer someday.
+Hello! I’m **Cristdan T. Duro**. I am a passionate, purpose-driven BSA student entering my second year at Ateneo de Davao University, actively working toward my ultimate goal of becoming a CPA-Lawyer.
 
 In design, I believe that great work is not just about aesthetics—it is about purpose, structure, and impact.
 
@@ -45,18 +45,17 @@ This design emphasizes clarity through structured layouts enhanced by subtle arc
 ---
 ## Other Projects
 
-### Prompt Engineering README
-
-[View My Prompt Engineering Project]([https://github.com/your-username/repository-name](https://github.com/cduro30/davao-dengue-prompt-system))
+### 🧠 Davao Dengue Prompt System  
+🔗 [View Project](https://github.com/cduro30/davao-dengue-prompt-system)
 
 **Reflection:**
-This project demonstrates structured thinking and precise instruction design. It focuses on clarity, specificity, and effective communication with AI systems.
+This project demonstrates a structured prompt engineering system designed to generate accurate and context-aware outputs related to dengue awareness and data insights in Davao. It focuses on clarity, specificity, and effective communication with AI systems.
 
 ---
 
 ### 📚 AI Literature Verification
 
-[View My Ai Literature Verification]([https://github.com/cristdan-duro/prompt-engineering](https://github.com/cduro30/ai-literature-verification))
+🔗 [View Project](https://github.com/cduro30/ai-literature-verification)
 
 **Reflection:**
 This work highlights critical evaluation of AI-generated content through verification and analysis. It emphasizes accuracy, credibility, and responsible AI use.
@@ -65,7 +64,7 @@ This work highlights critical evaluation of AI-generated content through verific
 
 ### 📈 Data Analytics Visual Report
 
-[View My Data Analytics Visual Report]([https://github.com/cristdan-duro/prompt-engineering](https://github.com/cduro30/Data-Analytics-Visual-Report))
+🔗 [View Project](https://github.com/cduro30/Data-Analytics-Visual-Report)
 
 **Reflection:**
 This project showcases data interpretation and visualization skills. It focuses on transforming raw data into clear, meaningful insights for better decision-making.
@@ -85,10 +84,8 @@ This project showcases data interpretation and visualization skills. It focuses 
 ## 📬 Contact Me
 
 * 📧 Email: [cduro@addu.edu.ph](mailto:cduro@addu.edu.ph)
-* 🌐 Portfolio Website: ([insert link](https://duroprototype.my.canva.site/title))
+* 🌐 Portfolio Website: ([Cristdan Duro](https://duroprototype.my.canva.site/title))
 
 ---
 
 ---
-
-⭐ *Thank you for viewing my portfolio!*
