@@ -28,7 +28,7 @@ This design uses small arch elements as borders to create a soft yet structured 
 
 ### Promotional Post
 
-![Promotional Post](./visuals/DURO_Promotional%20Post.png)
+![Promotional Post](./visuals/Promotional%20Post.png)
 
 **Reflection:**
 The arches guide the viewer’s attention while maintaining visual harmony. The chosen colors combine softness and depth, making the design both eye-catching and refined.
